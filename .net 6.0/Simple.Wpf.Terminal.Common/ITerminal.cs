@@ -42,6 +42,6 @@ namespace Simple.Wpf.Terminal.Common
         /// <summary>
         ///     Event fired when the user presses the Enter key.
         /// </summary>
-        event EventHandler LineEntered;
+        event LineEnteredEventHandler LineEntered;
     }
 }
