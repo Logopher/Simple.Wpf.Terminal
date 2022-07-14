@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\.net standard\Simple.Wpf.Terminal.Common\Simple.Wpf.Terminal.Common.csproj" />
     <ProjectReference Include="..\Simple.Wpf.Terminal\Simple.Wpf.Terminal.csproj" />
   </ItemGroup>
 

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Simple.Wpf.Terminal.Common\Simple.Wpf.Terminal.Common.csproj" />
+    <ProjectReference Include="..\..\.net standard\Simple.Wpf.Terminal.Common\Simple.Wpf.Terminal.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>
